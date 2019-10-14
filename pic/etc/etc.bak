@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>제목없음</title>
+
+<meta name="GENERATOR" content="Namo WebEditor v4.0">
+<script language="JavaScript">
+<!--
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName == 'Netscape') ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName == 'Netscape') ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+// -->
+</script>
+</head>
+<body>
+
+<p>취미삼아서...혹은 누군가를 위하여...</p>
+<table border="1" width="500" height="500">
+    <tr>
+        <td width="100" height="100">
+            <p align="center"><a href="01.JPG" target="_new" OnMouseOut="na_restore_img_src('bclee01', 'document')" OnMouseOver="na_change_img_src('bclee01', 'document', 'bclee01', true);"><img src="01.JPG" width="88" height="88" border="1" alt="bclee's music CD vol. 1_cover ('97) " name="b01"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="02.JPG" target="_new" OnMouseOut="na_restore_img_src('bclee02', 'document')" OnMouseOver="na_change_img_src('bclee02', 'document', 'bclee02', true);"><img src="02.JPG" width="88" height="63" border="1" alt="bclee's music CD vol. 3_cover  ('98)" name="bclee02"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="03.JPG" target="_new" OnMouseOut="na_restore_img_src('bclee03', 'document')" OnMouseOver="na_change_img_src('bclee03', 'document', 'bclee03', true);"><img src="03.JPG" width="88" height="88" border="1" alt="bclee music CD special ver._cover ('99)" name="bclee03"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="04.jpg" target="_new" OnMouseOut="na_restore_img_src('bclee04', 'document')" OnMouseOver="na_change_img_src('bclee04', 'document', 'bclee04', true);"><img src="04.jpg" width="88" height="88" border="1" alt="'99년 11월 소백산에서 ..." name="bclee04"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="05.jpg" target="_new" OnMouseOut="na_restore_img_src('bclee05', 'document')" OnMouseOver="na_change_img_src('bclee05', 'document', 'bclee05', true);"><img src="05.jpg" width="88" height="79" border="1" alt="bclee 가 누군가를 위해 1.8 m 망원경으로 다중 촬영한 토성..." name="bclee05"></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;<a href="06.jpg" OnMouseOut="na_restore_img_src('b06', 'document')" OnMouseOver="na_change_img_src('b06', 'document', 'b06', true);" target="_new"><img src="06.jpg" width="88" height="62" border="1" alt="보현산의 설경1..." name="b06"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;<a href="07.jpg" OnMouseOut="na_restore_img_src('b07', 'document')" OnMouseOver="na_change_img_src('b07', 'document', 'b07', true);" target="_new"><img src="07.jpg" width="88" height="62" border="1" alt="설경2...1m + 30cm 돔 배경으로..." name="b07"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;<a href="08.jpg" OnMouseOut="na_restore_img_src('b08', 'document')" OnMouseOver="na_change_img_src('b08', 'document', 'b08', true);" target="_new"><img src="08.jpg" width="88" height="62" border="1" alt="설경3...1.8 돔 배경으로..." name="b08"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;<a href="09.jpg" OnMouseOut="na_restore_img_src('b09', 'document')" OnMouseOver="na_change_img_src('b09', 'document', 'b09', true);" target="_new"><img src="09.jpg" width="88" height="62" border="1" alt="보현산...돌탑 ?" name="b09"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;To be continued...</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<p><b><a href="../old/old1.htm">그 옛날에..1</a></b> &nbsp;<b><a href="../old2/old2.htm">그 
+옛날에..2</a></b>&nbsp;&nbsp;<b><a href="../1970's/1970's.htm">1970's</a>  &nbsp;<a href="../1980's/1980's_1.htm">1980's</a></b> 
+&nbsp;<b><a href="../1990's/1990's_1.htm">1990's</a></b>&nbsp;&nbsp;<a href="../2000/2000.htm"><b>2000</b></a>&nbsp;&nbsp;<b><a href="../2001/2001_1.htm">2001</a></b></p>
+<p><b><a href="../grad_1995/grad_1995.htm">졸업식('95)</a> &nbsp;<a href="../grad_2001/grad_2001.htm">졸업식(2001)</a> 
+</b>&nbsp;&nbsp;<b><a href="../grad_cousin_1999/grad_cousin_1999.htm">졸업식(사촌동생,1999)</a></b>&nbsp;&nbsp;<b><a href="../friend/friend.htm">friend</a></b>&nbsp;&nbsp;<span style="font-size:16pt;"><b><i><font color="red">etc</font></i></b></span></p>
+</body>
+</html>
