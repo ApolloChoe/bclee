@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>제목없음</title>
+
+<meta name="GENERATOR" content="Namo WebEditor v4.0">
+<script language="JavaScript">
+<!--
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName == 'Netscape') ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName == 'Netscape') ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+// -->
+</script>
+</head>
+<body>
+
+<p>영글지 않은 그날...아쉬워서, 너무도 아쉬워 눈물이 묻어나는...</p>
+<table border="1" width="500" height="500">
+    <tr>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee01.JPG" target="_new" title="100 일 사진임다." OnMouseOut="na_restore_img_src('b1', 'document')" OnMouseOver="na_change_img_src('b1', 'document', 'b1', true);"><img src="bclee01.JPG" width="60" height="90" border="0" alt="100 일" name="b1"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee02.JPG" target="_new" OnMouseOut="na_restore_img_src('b2', 'document')" OnMouseOver="na_change_img_src('b2', 'document', 'b2', true);"><img src="bclee02.JPG" width="70" height="90" border="0" alt="부모님과 함께..." name="b2"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee03.JPG" target="_new" OnMouseOut="na_restore_img_src('b3', 'document')" OnMouseOver="na_change_img_src('b3', 'document', 'b3', true);"><img src="bclee03.JPG" width="90" height="70" border="0" alt="군대서 휴가나온 삼촌이 사다주신 자전거 타고..." name="b3"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee04.JPG" target="_new" OnMouseOut="na_restore_img_src('b4', 'document')" OnMouseOver="na_change_img_src('b4', 'document', 'b4', true);"><img src="bclee04.JPG" width="90" height="70" border="0" alt="형님과 ..." name="b4"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee08.jpg" target="_new" OnMouseOut="na_restore_img_src('mam', 'document')" OnMouseOver="na_change_img_src('mam', 'document', 'mam', true);"><img src="bclee08.jpg" width="64" height="88" border="0" alt="엄마하고 나하고 '72..." name="mam"></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee05.JPG" target="_new" OnMouseOut="na_restore_img_src('b5', 'document')" OnMouseOver="na_change_img_src('b5', 'document', 'b5', true);"><img src="bclee05.JPG" width="60" height="90" border="0" alt="인상 조~타 !" name="b5"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee07.jpg" target="_new" OnMouseOut="na_restore_img_src('family', 'document')" OnMouseOver="na_change_img_src('family', 'document', 'family', true);"><img src="bclee07.jpg" width="90" height="65" border="0" alt="친지들과..."></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><a href="bclee06.JPG" target="_new" OnMouseOut="na_restore_img_src('b6', 'document')" OnMouseOver="na_change_img_src('b6', 'document', 'b6', true);"><img src="bclee06.JPG" width="90" height="70" border="0" alt="형님과 사촌 동생들이랑..." name="b6"></a></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center"><img src="bclee09.jpg" width="90" height="70" border="0" alt="초등학교2년 소풍가서..."></p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;계속 발굴중입니다.</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+        <td width="100" height="100">
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<p><b><a href="../old/old1.htm">그 옛날에..1</a>&nbsp;&nbsp;<a href="../old2/old2.htm">그 
+옛날에..2</a>  </b><span style="font-size:16pt;"><b><i><font color="red">1970's</font></i></b></span> &nbsp;<b><a href="../1980's/1980's_1.htm">1980's</a></b>&nbsp;&nbsp;<b><a href="../1990's/1990's.htm">1990's</a></b> &nbsp;<a href="../2000/2000.htm"><b>2000</b></a> 
+&nbsp;<b><a href="../2001/2001.htm">2001</a></b> &nbsp;</p>
+<p><b><a href="../grad_1995/grad_1995.htm">졸업식(1995)</a> &nbsp;<a href="../grad_2001/grad_2001.htm">졸업식(2001)</a> 
+&nbsp;<a href="../grad_cousin_1999/grad_cousin_1999.htm">졸업식(사촌동생,1999)</a> 
+&nbsp;</b>&nbsp;<b><a href="../friend/friend.htm">friend 
+</a></b>&nbsp;&nbsp;<b><a href="../etc/etc.htm">etc</a></b></p>
+</body>
+</html>
